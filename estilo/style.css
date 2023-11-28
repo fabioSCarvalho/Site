@@ -152,8 +152,10 @@ article .FotoLado{
 
 div.imgTexto{
     width: 40%;
+    heigth:40%;
     margin: 3px;
 }
+
 picture.imgTexto > img{
     width: 300px;
     margin: 10px;
