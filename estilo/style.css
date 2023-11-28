@@ -150,9 +150,14 @@ article .FotoLado{
 
 }
 
+div.texto{
+   with:40%:
+   
+}
+
 div.imgTexto{
-    width: 40%;
-    heigth:40%;
+    width: 30%;
+    heigth:30%;
     margin: 3px;
 }
 
