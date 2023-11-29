@@ -112,7 +112,10 @@ nav.menu{
     background-image: linear-gradient(to left,rgb(129, 121, 121), transparent );
     margin:auto;
     margin-top: 10px;
-    width: 90%;
+    margin-bottom: 10px;
+    max-width: 80%;
+    min-width: 300px;
+    min-height: 350px;
     padding: 20px;
     border-radius: 18px;
 }
@@ -143,34 +146,34 @@ article .FotoLado{
     position: relative;
     padding: 2px;
     display: flex;
-    width: 90%;
-
-}
-
-div.texto{
-   with:40%:
-   
 }
 
 div.imgTexto{
-    width: 30%;
-    heigth:30%;
-    margin: 3px;
+    width: 40%;
 }
 
-picture.imgTexto > img{
-    width: 300px;
-    margin: 10px;
-}
 picture.imgTexto > img{
     width: 300px;
     margin: 10px;
 }
 
 picture.imgTexto > #ProjetoNewtail{
-    min-width: 420px;
-    min-height: 320px;
-    margin: 10px;
     border-radius: 10px;
-    
+    width:900px;
+    max-width: 100%;
+    margin: 10px;
+}
+
+
+picture.imgTexto > #ProjetoNewtail:active{
+    transition: 3s;
+    position: absolute;
+    margin: auto;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 520px;
+    height: 350px;
+    border-radius: 10px;
 }
