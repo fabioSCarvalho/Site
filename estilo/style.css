@@ -112,10 +112,7 @@ nav.menu{
     background-image: linear-gradient(to left,rgb(129, 121, 121), transparent );
     margin:auto;
     margin-top: 10px;
-    margin-bottom: 10px;
-    max-width: 80%;
-    min-width: 70%;
-    min-height: 350px;
+    width: 90%;
     padding: 20px;
     border-radius: 18px;
 }
