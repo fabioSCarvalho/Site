@@ -164,7 +164,12 @@ article .FotoLado{
     padding: 2px;
     display: flex;
 }
+div.Texto p{
+    text-align: justify;
+    padding: 10px;
+    margin: 8px;
 
+}
 div.imgTexto{
     width: 40%;
 }
