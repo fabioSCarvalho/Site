@@ -130,9 +130,9 @@ nav.menu{
     margin:auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    max-width: 50%;
-    min-width: 200px;
-    min-height: 350px;
+    max-width: 80%;
+    min-width: 300px;
+    min-height: 450px;
     padding: 20px;
     border-radius: 18px;
 }
@@ -168,7 +168,7 @@ article .FotoLado{
 div.Texto p{
     text-align: justify;
     padding: 10px;
-    margin: 8px;
+    margin: 10px;
 }
 
 div.Texto a{
@@ -178,10 +178,8 @@ div.Texto a{
     
 }
 
-
-
 picture.imgTexto > img{
-    width: 350px;
+    width: 750px;
     max-width: 100%;
     margin: 10px;
 }
@@ -193,11 +191,6 @@ picture.imgTexto > img{
     max-width: 100%;
 }
 
-
-picture.ProjetoNewtail :hover{
-    margin: auto;
-   transform: scale(1.1);
-}
 
 
 div.video{
