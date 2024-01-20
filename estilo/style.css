@@ -193,9 +193,15 @@ picture.imgTexto > img{
 
 
 div.video{
+<<<<<<< HEAD
     background-color: #000000c9;
     margin: 8px;
     width: 650px; 
+=======
+    background-color: #0000005d;
+    margin:10px;
+    width: 100%;
+>>>>>>> 892ec8bac77e5e8b25a25dde9d3f7f443cbe2227
     max-width:80% ;
     max-height: 100%;
     padding: 1px;
